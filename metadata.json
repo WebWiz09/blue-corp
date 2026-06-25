@@ -1,0 +1,6 @@
+{
+  "name": "Bluecorp Website",
+  "description": "Corporate website for Bluecorp, an African AI company showcasing intelligent systems, workflows, and digital agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
